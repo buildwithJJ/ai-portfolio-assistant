@@ -7,4 +7,4 @@ Technologies:
 HTML, CSS, JavaScript, React, Groq API, Llama 3.1
 
 Live Demo:
-https://yourusername.github.io/ai-portfolio-assistant/
+https://buildwithjj.github.io/ai-portfolio-assistant/
