@@ -1,4 +1,4 @@
-#AI Portfolio Assistant
+AI Portfolio Assistant
 
 An AI-powered chatbot that introduces Jonathan Jose Thomas, 
 his skills, and projects through natural conversation.
