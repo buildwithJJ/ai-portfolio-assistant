@@ -1,12 +1,17 @@
-# React + Vite
+# AI Portfolio Assistant 🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based AI chatbot that introduces me and answers questions about my skills, projects, and experience.
 
-Currently, two official plugins are available:
+## Tech Stack
+- React
+- Vite
+- Groq API
+- HTML/CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Interactive AI chatbot
+- Answers questions about my portfolio
+- Modern chat UI
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+Jonathan Jose Thomas
